@@ -1,0 +1,3 @@
+The characters for the JS 123 challenge are:
+
++!![]+[+!![]+!![]]+[+!![]+!![]+!![]]
